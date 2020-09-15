@@ -6,4 +6,4 @@ iOS app that help you to maintain your health according to what you consumed
 Swift
 
 # Credits
-Made by team. Copyright (C) 2016 Christopher Glorian, Evelyn Sugiarto, Jessica Clarissa, Maria Vanessa Salim, Sherly Natalia . All Rights Reserved.
+Made by team. Copyright (C) 2019 Christopher Glorian, Evelyn Sugiarto, Jessica Clarissa, Maria Vanessa Salim, Sherly Natalia . All Rights Reserved.
